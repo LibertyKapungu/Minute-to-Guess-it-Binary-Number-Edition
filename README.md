@@ -60,7 +60,7 @@ The "Minute to Guess it: Binary Edition" is a game where the player has 60 secon
 4. If the guess is correct, you will hear a short high pitched beep and score 2 points.
 5. If the guess is wrong, you will hear a short low pitched beep and lose 1 point.
 6. The LEDs indicate the remaining time in 15-second intervals.
-7. As the time progresses, the LEDs turn off in 15-second intervals untill the 60 seconds are up.
+7. As the time progresses, the LEDs turn off one at a time in 15-second intervals untill the 60 seconds are up.
 8. If the time runs out, you will hear long high pitched beep.
 9. After the game ends, the stats will be displayed.
 
